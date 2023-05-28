@@ -1,0 +1,11 @@
+{
+	"web": {
+		"client_id": "955057108636-ijpbgcgnisir0u7mep766gjbh97f59g3.apps.googleusercontent.com",
+		"project_id": "calender-7266",
+		"auth_uri": "https://accounts.google.com/o/oauth2/auth",
+		"token_uri": "https://oauth2.googleapis.com/token",
+		"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+		"client_secret": "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",
+		"javascript_origins": ["http://127.0.0.1:8000"]
+	}
+}
